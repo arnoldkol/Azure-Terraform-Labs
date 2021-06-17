@@ -1,0 +1,1 @@
+This is a lab about virtual machine scale sets in terraform HCL.
